@@ -1,2 +1,19 @@
 # python-projects
-my basic projects in this repositary
+# Project 1: Public Relation Department
+
+This project aims to segment customers based on Sentiment Analysis.
+
+## Dataset
+data source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
+The dataset contains information about customer rating, variation, verified_reviews, feedback
+
+## Analysis
+The `public relations department project.ipynb` notebook contains the following steps:
+1. Data preprocessing: Cleaning and exploring the dataset.
+2. Feature engineering: Scaling the features for clustering.
+3. Model building: Applying NLP.
+4. Visualization: Visualizing the clusters to understand customer segments.
+5. Conclusion: Summarize the findings and suggest actionable insights for marketing strategies.
+
+
+
