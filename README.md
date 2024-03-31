@@ -15,7 +15,6 @@ The `public relations department project.ipynb` notebook contains the following 
 4. Visualization: Visualizing the clusters to understand customer segments.
 5. Conclusion: Summarize the findings and suggest actionable insights for marketing strategies.
 
-# python-projects
 # Project 2: Linear Regression on Boston Housing Dataset
 
 This project aims to Predict the Price of houses using linear regression.
@@ -31,8 +30,8 @@ The `public relations department project.ipynb` notebook contains the following 
 4. Visualization: Visualizing the clusters to understand customer segments.
 5. Conclusion: Summarize the findings and suggest actionable insights for marketing strategies.
 
-## Project 3: EDA on Titanic Dataset
-In this project, I have done detailed exploratory data analysis, including Univariate, bivariate and multivariate analysis.
+# Project 3: EDA on Titanic Dataset
+I have done detailed exploratory data analysis in this project, including Univariate, bivariate and multivariate analysis.
 ## Dataset
 This Dataset was taken from the Kaggle Titanic competition dataset. This Dataset concerns the possibility of a person surviving on a Titanic ship at that time. It has 891 instances with 12 features.
 
@@ -40,3 +39,4 @@ This Dataset was taken from the Kaggle Titanic competition dataset. This Dataset
 1. Correlation of each column with survived column has been found.
 2. Conclude the role of different features in a person's survival on the ship.
 3. validated using visualization graphs, bar charts, pie charts, kde plots, and box plots.
+4. Created new columns Family-size, FarePerPerson, Title and Deck.
